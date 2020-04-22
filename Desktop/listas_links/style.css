@@ -1,0 +1,43 @@
+body{
+	background: #a5ccb1; 
+	text-align: center;
+	margin: 30px;
+	padding: 15px;
+}
+
+a{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 25px;
+	color: black;
+}
+
+#amazon:hover{
+	color: #ff2eb9;
+	transform: scale(1.2);
+}
+#amazon:active{
+	color: #61a305;
+}
+#face:visited{
+	color: #ffea00;
+}
+#netflix:hover{
+	color: #ff0000;
+
+}
+#netflix:active{
+	color: #536355;
+}
+#mercado:hover{
+	color: #0084ff;
+}
+#mercado:active{
+	color: #00ffb7;
+}
+#picpay:visited{
+	color: #00ff3c;
+}
+#picpay:active{
+	color: #ff9d00;
+}
